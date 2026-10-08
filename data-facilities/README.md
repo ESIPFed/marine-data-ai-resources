@@ -6,7 +6,11 @@ Create new profiles from the [facility page template](../templates/data-facility
 
 ## Facility profiles
 
-No facility profiles have been added yet. Initial profiles will be developed and tested as community pilots.
+Initial profiles are being developed and tested as community pilots.
+
+| Facility | Scope | Profile status |
+|---|---|---|
+| [CCHDO — CLIVAR and Carbon Hydrographic Data Office](cchdo.md) | Discovery and interpretation of public ship-based CTD and bottle hydrographic data | Draft; reviewer and review cadence TBD |
 
 ## Profile status
 
