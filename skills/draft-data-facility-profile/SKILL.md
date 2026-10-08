@@ -20,6 +20,10 @@ If revising an existing profile, read it before proposing changes.
 
 ## Establish the contribution
 
+At the start of the walkthrough, briefly explain the process and reassure the contributor that they do not need every answer. For example:
+
+> We'll work through the profile in manageable sections. It's fine to say "I don't know" or skip a question. I'll check official documentation where possible, flag anything that needs someone else's input, and keep track of open questions while we continue.
+
 Determine whether the contributor is creating, revising, or reviewing a profile. Establish the facility name, short name, primary website, intended profile status, and likely facility reviewer when known.
 
 Work interactively. Ask compact groups of questions only when the answers materially affect the profile. Do not ask the contributor to transcribe facts that can be verified efficiently from authoritative public documentation.
@@ -31,6 +35,14 @@ Separate:
 - **community guidance**, such as suggested workflows, cross-facility comparisons, and experimental skills.
 
 Facility judgments should be confirmed by an appropriate representative or marked as awaiting review.
+
+When a contributor does not know an answer:
+
+- Check official documentation for verifiable facts, within the available access and tools.
+- If the answer remains unresolved or needs a facility decision, record a specific open question in the working draft, including the relevant source or suggested reviewer when known.
+- Continue with sections that do not depend on that answer. Do not repeat the question or require the contributor to guess.
+
+Distinguish "unknown" from "not offered," "unsupported," and "not applicable." At handoff, collect the remaining open questions for review; unresolved questions do not prevent a useful draft, but may prevent treating it as complete.
 
 ## Draft in useful passes
 
