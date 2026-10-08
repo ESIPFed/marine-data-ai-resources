@@ -1,5 +1,5 @@
 ---
-title: "[Repository name]"
+title: "[Facility name]"
 short_name: "[Common abbreviation]"
 homepage: "https://example.org"
 guidance_status: "draft"
@@ -7,7 +7,7 @@ last_reviewed: "YYYY-MM-DD"
 maintained_by:
   - "[Person, team, or organization]"
 reviewed_by:
-  - "[Repository representative, if applicable]"
+  - "[Facility representative, if applicable]"
 tags:
   - "[discipline, data type, region, or program]"
 access_methods:
@@ -15,15 +15,15 @@ access_methods:
   # Other examples: file-download, bulk-download, data-service, api, webpage-extraction, agent-skill, mcp
 ---
 
-# [Repository name]
+# [Facility name]
 
-> **About this page:** This guidance helps people and AI agents decide when and how to use [repository]. It does not replace the repository's authoritative documentation. Links and access instructions were last reviewed on [date].
+> **About this page:** This guidance helps people and AI agents decide when and how to use [facility]. It does not replace the facility's authoritative documentation. Links and access instructions were last reviewed on [date].
 
 <!--
 TEMPLATE INSTRUCTIONS
 
 - Complete every CORE section.
-- Keep only the ACCESS MODULES that apply to this repository.
+- Keep only the ACCESS MODULES that apply to this facility.
 - Recommended and optional sections may be removed when they add no value.
 - Prefer concise explanations and links to authoritative documentation.
 - Write a self-contained page: a user may give an agent only this URL.
@@ -33,27 +33,27 @@ TEMPLATE INSTRUCTIONS
 
 ## Core: At a glance
 
-**What it is:** [One or two sentences describing the repository.]
+**What it is:** [One or two sentences describing the facility.]
 
-**Authoritative role:** [State what the repository is authoritative for, including any formal program or archival role. If it is not authoritative, explain its role without implying otherwise.]
+**Authoritative role:** [State what the facility is authoritative for, including any formal program or archival role. If it is not authoritative, explain its role without implying otherwise.]
 
-**Use this repository when:**
+**Use this facility when:**
 
 - [Task, question, data type, region, program, or collection]
 - [Another appropriate use]
 
 **Do not assume:**
 
-- [Important boundary, common misconception, or content the repository does not hold]
+- [Important boundary, common misconception, or content the facility does not hold]
 - [Another limitation]
 
 **Primary entry point:** [Human-facing search, catalog, or landing-page URL]
 
-## Core: What the repository contains
+## Core: What the facility contains
 
-Summarize the repository's major holdings. Describe the relevant scientific domains, platforms, programs, geographic and temporal coverage, data types, processing levels, and product types.
+Summarize the facility's major holdings. Describe the relevant scientific domains, platforms, programs, geographic and temporal coverage, data types, processing levels, and product types.
 
-Avoid claiming comprehensive coverage unless that claim is documented by the repository.
+Avoid claiming comprehensive coverage unless that claim is documented by the facility.
 
 ## Core: How to start a search
 
@@ -72,7 +72,7 @@ Explain which inputs work best and which commonly fail. If a formal identifier i
 
 ## Core: Important entities and identifiers
 
-Define the entities and identifiers needed to use this repository correctly.
+Define the entities and identifiers needed to use this facility correctly.
 
 | Entity | Identifier or name | Meaning and scope | Common pitfalls |
 |---|---|---|---|
@@ -95,7 +95,7 @@ State what an agent should do when the preferred path fails. Do not direct agent
 
 # Interchangeable access modules
 
-<!-- Keep, reorder, or remove the following modules to match the repository. -->
+<!-- Keep, reorder, or remove the following modules to match the facility. -->
 
 ## Access module: Website search and browsing
 
@@ -139,11 +139,11 @@ Describe supported operations, authentication, pagination, rate limits, versions
 
 Use only when a preferred machine-readable method is unavailable. State which public pages may be extracted, what fields are present, and whether permission or coordination is required.
 
-Document request-rate expectations, caching, pagination, dynamically rendered content, embedded structured data, fragile selectors, validation checks, and explicit stop conditions. Do not describe methods that bypass authentication, access controls, or repository policy.
+Document request-rate expectations, caching, pagination, dynamically rendered content, embedded structured data, fragile selectors, validation checks, and explicit stop conditions. Do not describe methods that bypass authentication, access controls, or facility policy.
 
 ## Access module: Agent guidance and skills
 
-**Status:** [Repository-maintained / Community-contributed / Experimental]
+**Status:** [Facility-maintained / Community-contributed / Experimental]
 
 List available agent-oriented resources and explain how to use them.
 
@@ -186,15 +186,15 @@ Explain how to determine:
 
 Document problems an agent should recognize and report rather than silently work around. Examples include incomplete coverage, broken external links, inconsistent identifiers, incorrect spatial bounds, delayed updates, combined datasets, ambiguous versions, or fields that should not be treated as authoritative.
 
-For each important failure mode, state the safe response: retry differently, verify against another source, ask the user, contact the repository, or stop.
+For each important failure mode, state the safe response: retry differently, verify against another source, ask the user, contact the facility, or stop.
 
-## Recommended: Cross-repository relationships
+## Recommended: Cross-facility relationships
 
-Describe how this repository relates to other repositories, programs, operators, and archives.
+Describe how this facility relates to other facilities, programs, operators, and archives.
 
-| Related repository | Relationship | Shared or mapped identifiers | Which source to use when |
+| Related facility | Relationship | Shared or mapped identifiers | Which source to use when |
 |---|---|---|---|
-| [Repository] | [Archive, originator, aggregator, complementary holdings, etc.] | [Identifiers] | [Decision guidance] |
+| [Facility] | [Archive, originator, aggregator, complementary holdings, etc.] | [Identifiers] | [Decision guidance] |
 
 Document differences or disagreement openly rather than forcing a single answer.
 
@@ -228,7 +228,7 @@ Link to test prompts, fixtures, validation scripts, or expected results maintain
 
 **Prepared by:** [Name or organization]
 
-**Repository review:** [Reviewer and date, or “Not yet repository-reviewed”]
+**Facility review:** [Reviewer and date, or “Not yet facility-reviewed”]
 
 **Last checked:** [Date]
 
@@ -237,4 +237,3 @@ Link to test prompts, fixtures, validation scripts, or expected results maintain
 **How to report a problem:** [Issue tracker, email, or other contact]
 
 **Change history:** [Link to Git history, releases, or brief notes]
-
