@@ -20,6 +20,7 @@ This repository is at an early, community-development stage. Its templates, term
 
 - Browse the [facility catalog](data-facilities/README.md).
 - Use the [facility page template](templates/data-facility-profile-template.md) to draft a profile.
+- Use or review the project's [agent skills](skills/README.md).
 - Read the [contribution guidance](CONTRIBUTING.md) before proposing a change.
 
 When this repository is opened in an agentic development environment, [AGENTS.md](AGENTS.md) provides instructions for working with its contents. Individual facility profiles are also intended to be understandable when supplied to an agent on their own.

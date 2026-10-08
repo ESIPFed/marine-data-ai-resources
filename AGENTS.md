@@ -15,6 +15,8 @@ Before making substantial changes, read:
 3. [templates/data-facility-profile-template.md](templates/data-facility-profile-template.md) when creating or revising a facility profile.
 4. [CONTRIBUTING.md](CONTRIBUTING.md) for contribution requirements.
 
+When a task involves a reusable workflow, inspect [skills/README.md](skills/README.md) and load only the relevant skill.
+
 ## Using facility profiles
 
 When helping with a marine-data question:
